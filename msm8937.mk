@@ -110,9 +110,6 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor \
     android.frameworks.displayservice@1.0.vendor
 
-PRODUCT_PACKAGES += \
-    Snap
-
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.allocator@2.0-impl \
